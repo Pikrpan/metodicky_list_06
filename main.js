@@ -1,5 +1,5 @@
 /*
-Pomocí příkazů getElementById a querySelector uprav text, 
-který se bude zobrazovat v jednotlivých elementech
+Pomocí příkazů document.getElementById(), document.querySelector() a .textContent
+uprav text, který se bude zobrazovat v jednotlivých HTML elementech
 */
 
